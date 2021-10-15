@@ -17,7 +17,7 @@
 /*
     Create a variable for each of the above steps of the Software Development Lifecycle and 
     set the values of each variable to a definition of the step.
-*/
+    */
 
 let analysisOfRequirements = "Researching and finding what the problems are. How can we improve the system."
 let planning = "What do we want. Things we can afford to put time and money into. What would our customers need"
